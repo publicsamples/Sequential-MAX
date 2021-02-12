@@ -6,6 +6,7 @@ A cheap computer-controlled polysynth. This one seems slightly broken. Sounds na
 -   **Formats:** EXS24, Kontakt & SFZ
 -   **Approx Size:** 1GB
 -   **Info:** [vintagesynth.com](http://www.vintagesynth.com/sci/max.php
+- [Web Audio Demo](https://www.modularsamples.com/Demos/demos/max.html)
 
 **This collection requires you to download the audio seperately**
 
