@@ -8,9 +8,8 @@ A cheap computer-controlled polysynth. This one seems slightly broken. Sounds na
 -   **Info:** [vintagesynth.com](http://www.vintagesynth.com/sci/max.php
 - [Web Audio Demo](https://www.modularsamples.com/Demos/demos/max.html)
 
-**This collection requires you to download the audio seperately**
+**[Download Audio](https://github.com/publicsamples/Sequential-MAX/releases/tag/1.0)**
 
-[Download Audio from Dropbox](https://www.dropbox.com/sh/uppv9fu1py3s4ei/AAAkW6ETi48P6TmV6N7ciKfPa?dl=0)
 
 # Loading
 
